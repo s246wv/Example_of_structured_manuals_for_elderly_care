@@ -23,6 +23,35 @@ You can try some SPARQL queries as shown in the botom of this page.
 ## Publication
 Nishimura, S., et al.: Trial to RDFize Structured Manual for Care Processes, SIG-SWO-44-11 (2018), pp. 1-4. in Japanese.
 Nishimura, S., et al.: Building Structured Manuals for Elderly Care as a Computer Interpretable Knowledge Resource, The 8th Joint International Semantic Technology Conference (JIST2018) Poster and Demo, 4 pages. (2018)
+```bibtex
+@inproceedings{DBLP:conf/jist/NishimuraZFN18,
+  author       = {Satoshi Nishimura and
+                  Lihua Zhao and
+                  Ken Fukuda and
+                  Takuichi Nishimura},
+  editor       = {Rathachai Chawuthai and
+                  Seiji Koide and
+                  Naoki Fukuta and
+                  Takeshi Morita and
+                  Hanmin Jung and
+                  Shinichi Nagano},
+  title        = {Building Structured Manuals for Elderly Care as a Computer Interpretable
+                  Knowledge Resource},
+  booktitle    = {Workshop and Poster Proceedings of the 8th Joint International Semantic
+                  Technology Conference co-located with the 8th Joint International
+                  Semantic Technology Conference {(JIST} 2018), Awaji City, Hyogo, Japan,
+                  November 26-28, 2018},
+  series       = {{CEUR} Workshop Proceedings},
+  volume       = {2293},
+  pages        = {78--81},
+  publisher    = {CEUR-WS.org},
+  year         = {2018},
+  url          = {https://ceur-ws.org/Vol-2293/jist2018pd\_paper1.pdf},
+  timestamp    = {Fri, 10 Mar 2023 16:22:12 +0100},
+  biburl       = {https://dblp.org/rec/conf/jist/NishimuraZFN18.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
 
 ## References
 These are textbooks about elderly care processes to construct the Example_of_structured_manuals_for_elderly_care.
@@ -30,7 +59,7 @@ These are textbooks about elderly care processes to construct the Example_of_str
   [2] 平舘綾子: ホームヘルパー講座2級課程テキスト2介護の実際, ニチイ学館(2012)  
   [3] 大田仁史, 三好春樹: 完全図解　新しい介護, 講談社, 東田 勉(編集), (2014)  
   [4] 初任者研修テキストブック編集委員会(編集), 介護職員初任者研修テキスト,ミネルヴァ書房, (2016)  
-  [5]社団法人日本介護福祉士養成施設協会, 介護福祉国家試験・実技試験免除のための介護技術講習テキスト, (2005)  
+  [5] 社団法人日本介護福祉士養成施設協会, 介護福祉国家試験・実技試験免除のための介護技術講習テキスト, (2005)  
 
 
 ## 構造化マニュアルとは
